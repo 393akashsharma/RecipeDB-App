@@ -31,7 +31,7 @@ The app serves as a culinary assistant for users, helping them discover recipes 
 
 ## Screenshots
 ### Main Menu
-![RecipeDB Main Menu](https://drive.google.com/file/d/1-hLjI4OESCSJahegcm_DZlwBhEonZS3I/view?usp=sharing)  
+![recipe_1](https://github.com/user-attachments/assets/e3eef05a-a6c9-44af-bf76-73abcfefee7b)
 *The main menu provides users quick access to the ingredients, recipes, and meal planning features.*
 
 ### Ingredient Details
