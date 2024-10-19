@@ -36,12 +36,12 @@ The app serves as a culinary assistant for users, helping them discover recipes 
 *This homepage provides users with quick access to meals and features a search bar for meal searches.*
 
 ### Menu List
-![receipe_2](https://github.com/user-attachments/assets/ed647baa-aa6e-4433-bbf8-5f69feb566df)
+<img src="https://github.com/user-attachments/assets/ed647baa-aa6e-4433-bbf8-5f69feb566df" alt="recipe_1" width="300"/>
 *The menu provides a comprehensive overview of the various categories available, showcasing a diverse selection of options for customers to choose from.*
 
 ### Ingredient Details
+<img src="https://github.com/user-attachments/assets/833d2ad3-1b7f-4ae3-8833-0804bc728f8e" alt="recipe_1" width="300"/>
 
-![recipe_3](https://github.com/user-attachments/assets/833d2ad3-1b7f-4ae3-8833-0804bc728f8e)
 *The meal planner helps users create and organize meals based on the ingredients they have or wish to use.*
 
 ## Installation
