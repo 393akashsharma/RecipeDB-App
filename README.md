@@ -37,6 +37,7 @@ The app serves as a culinary assistant for users, helping them discover recipes 
 
 ### Menu List
 <img src="https://github.com/user-attachments/assets/ed647baa-aa6e-4433-bbf8-5f69feb566df" alt="recipe_1" width="300"/>
+
 *The menu provides a comprehensive overview of the various categories available, showcasing a diverse selection of options for customers to choose from.*
 
 ### Ingredient Details
