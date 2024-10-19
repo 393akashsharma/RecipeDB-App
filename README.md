@@ -30,23 +30,24 @@ The app serves as a culinary assistant for users, helping them discover recipes 
 3. **Create Meal Plans**: Based on selected ingredients or dietary preferences, users can create personalized meal plans.
 
 ## Screenshots
-### Main Menu
+### Home Pages
 <img src="https://github.com/user-attachments/assets/e3eef05a-a6c9-44af-bf76-73abcfefee7b" alt="recipe_1" width="300"/>
 
-*The main menu provides users quick access to the ingredients, recipes, and meal planning features.*
+*This homepage provides users with quick access to meals and features a search bar for meal searches.*
+
+### Menu List
+![receipe_2](https://github.com/user-attachments/assets/ed647baa-aa6e-4433-bbf8-5f69feb566df)
+*The menu provides a comprehensive overview of the various categories available, showcasing a diverse selection of options for customers to choose from.*
 
 ### Ingredient Details
-![RecipeDB Ingredient Details](https://example.com/images/ingredient-details.png)  
-*The ingredient detail page showcases nutritional information and various ways to use the ingredient.*
 
-### Meal Planning
-![RecipeDB Meal Planner](https://example.com/images/meal-planner.png)  
+![recipe_3](https://github.com/user-attachments/assets/833d2ad3-1b7f-4ae3-8833-0804bc728f8e)
 *The meal planner helps users create and organize meals based on the ingredients they have or wish to use.*
 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/RecipeDB.git
+    git clone https://github.com/393akashsharma/RecipeDB-App.git
     ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or physical device.
