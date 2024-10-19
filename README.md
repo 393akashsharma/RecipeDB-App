@@ -31,7 +31,8 @@ The app serves as a culinary assistant for users, helping them discover recipes 
 
 ## Screenshots
 ### Main Menu
-![recipe_1](https://github.com/user-attachments/assets/e3eef05a-a6c9-44af-bf76-73abcfefee7b)
+<img src="https://github.com/user-attachments/assets/e3eef05a-a6c9-44af-bf76-73abcfefee7b" alt="recipe_1" width="300"/>
+
 *The main menu provides users quick access to the ingredients, recipes, and meal planning features.*
 
 ### Ingredient Details
